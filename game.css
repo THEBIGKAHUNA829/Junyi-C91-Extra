@@ -1,0 +1,97 @@
+body {
+  background-color: #ffffff;
+}
+#login_button {
+  background-color: #66b5ff;
+  border-radius: 10px;
+  font-size: 30px;
+  color: #111934;
+  text-align: center;
+  font: bold;
+  font-family: "Gamja Flower", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+#titlename {
+  color: #fff049;
+  font-weight: 1000;
+  font-size: 100px;
+}
+
+.login_div1,
+.login_div2 {
+  background: rgb(114, 135, 255);
+  padding: 10px;
+  float: none;
+  border-radius: 15px;
+  color: #1a2a4a;
+  font-family: "Gaegu", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#player1_name,
+#player2_name {
+  display: inline-block;
+  margin-left: 40px;
+  text-align: left;
+  color: #000a42;
+  font-size: 35px;
+  font: bold;
+  font-family: "Schoolbell", cursive;
+  font-weight: 600;
+  font-style: normal;
+}
+
+#word {
+  width: 60%;
+  font-family: "Gaegu", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #242e3f;
+  font-size: 20px;
+}
+
+#word_display {
+  letter-spacing: 5px;
+}
+
+#output {
+  background: rgb(170, 187, 255);
+  border-radius: 10px;
+  border-top: 20px solid #4e7dff;
+  height: 30px;
+  padding: 10px;
+  float: none;
+  text-align: left;
+  font-family: "Gamja Flower", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h3 {
+  font-family: "Gaegu", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 25px;
+}
+
+label,
+#player1_name_input,
+#player2_name_input {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color:#111934;
+}
+
+#sendbutton
+{
+	background-color:rgb(41, 63, 207);
+	color: white;
+	font-family: "Gaegu", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 27px;
+  border-radius: 8px;
+
+}
